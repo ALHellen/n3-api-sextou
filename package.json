@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ALHellen/n3-api-sextou#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.7.12",
     "nodemon": "^2.0.0"
   }
